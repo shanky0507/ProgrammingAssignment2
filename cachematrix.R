@@ -1,4 +1,4 @@
-## These functions written for Coursera Data Science: R Programming 
+## These functions written for Coursera Data Science: R Programming date 1-4-2018
 
 
 ## This function creates a special "matrix" object that can cache its inverse
