@@ -1,5 +1,5 @@
-## These functions written in partial fulfillment of Coursera Data Science: R Programming 
-## Week 3 Assignment; week beginning January 18, 2016; GitHub user: PamlaM
+## These functions written for Coursera Data Science: R Programming 
+
 
 ## This function creates a special "matrix" object that can cache its inverse
 
